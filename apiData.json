@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Tomate",
-      "img": "images/tomates.png",
+      "img": "images/tomate.png",
       "price": [ 5.99, 9.99, 24.00],
       "sizes": ["1 Dúzia", "2 Dúzias", "5 Dúzias"],
       "description": "Selecionamos os melhores e mais frescos tomates para seu estabalecimento!"
