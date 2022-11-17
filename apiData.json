@@ -2,18 +2,18 @@
     {
       "id": 1,
       "name": "Tomate",
-      "img": "images/banan-doce-de-leite.png",
-      "price": [14.49, 19.99, 400.00],
-      "sizes": ["320g", "530g", "1000000000g"],
-      "description": "Molho, muçarela, atum, cebola fatiada e orégano."
+      "img": "images/tomates.png",
+      "price": [ 5.99, 9.99, 24.00],
+      "sizes": ["1 Dúzia", "2 Dúzias", "5 Dúzias"],
+      "description": "Selecionamos os melhores e mais frescos tomates para seu estabalecimento!"
     },
     {
       "id": 2,
-      "name": "Calabresa",
+      "name": "Alface",
       "img": "images/calabresa.png",
-      "price": [14.5, 19.99, 27.99],
-      "sizes": ["320g", "530g", "860g"],
-      "description": "Molho, muçarela, calabresa fatiada, cebola fatiada e orégano."
+      "price": [2.00, 5.99, 14.00],
+      "sizes": ["1 Unidade", "3 Unidade", "7 Unidade"],
+      "description": "Selecionamos os melhores e mais frecos tomates para seu estabelecimento"
     },
     {
       "id": 3,
