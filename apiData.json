@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Tomate",
-      "img": "images/tomate.png.url",
+      "img": "https://images.ecycle.com.br/wp-content/uploads/2021/04/04101243/pe-de-alface.jpg",
       "price": [ 5.99, 9.99, 24.00],
       "sizes": ["1 Dúzia", "2 Dúzias", "5 Dúzias"],
       "description": "Selecionamos os melhores e mais frescos tomates para seu estabalecimento!"
