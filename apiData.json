@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "Alface",
-      "img": "images/calabresa.png",
+      "img": "images/alface.png",
       "price": [2.00, 5.99, 14.00],
       "sizes": ["1 Unidade", "3 Unidade", "7 Unidade"],
       "description": "Selecionamos os melhores e mais frecos tomates para seu estabelecimento"
